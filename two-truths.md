@@ -2,10 +2,10 @@
 
 - I can play the guitar.
 - I love hiking.
-- I am afraid of swiming.
+- I am afraid of swiming. LIE
 
 ## Chloe
 
 - I can swimming.
 - I love cooking.
-- I am afraid of cat.
+- I am afraid of cat. LIE
