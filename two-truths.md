@@ -7,5 +7,5 @@
 ## Yosan Legaspi
 
 - Blue is my fav colour
-- I looove sashimi
+- I looove sashimi - LIE
 - I have a cute cat called Puddles
