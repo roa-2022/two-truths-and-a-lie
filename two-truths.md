@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Zin
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I have two cats but I was allergic to cats.
+- I am certified sky-diving instructor.
+- I have touched a lion.
 
-## Buzz Aldrin
+## Matt
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I have two siblings
+- I have a T-Rex tattoo on my left arm.
+- My favourite Shrek film is Shrek 3
