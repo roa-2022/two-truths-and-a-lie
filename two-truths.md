@@ -1,11 +1,11 @@
-## Paris Chua
+## Kat 
 
-- I can dive
-- I love tramping
-- I love eating
+- I have never been to the South Island
+- I can play an instrument
+- one of my legs is longer than the other
 
-## Yanina Amatore
+## Tomas
 
-- I am a great cook.
-- I love parasailing.
-- I was born in Buenos Aires.
+- I have never seen snowing
+- I love cooking
+- I have been to Beijing on Chinese New Year
