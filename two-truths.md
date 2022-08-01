@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Paris Chua
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I can dive
+- I love tramping
+- I love eating
 
-## Buzz Aldrin
+## Yanina Amatore
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I am a great cook.
+- I love parasailing.
+- I was born in Buenos Aires.
