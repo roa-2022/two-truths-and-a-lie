@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Kat 
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I have never been to the South Island
+- I can play an instrument
+- one of my legs is longer than the other
 
-## Buzz Aldrin
+## Tomas
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I have never seen snowing
+- I love cooking
+- I have been to Beijing on Chinese New Year
