@@ -1,11 +1,6 @@
-## Neil Armstrong
+## Yosan Legaspi
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- My fav colour is blue
+- I love sashimi
+- I amhave a cat called Puddles
 
-## Buzz Aldrin
-
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
