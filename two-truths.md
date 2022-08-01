@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Ryan Hunt
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I have been over to the UK multiple times
+- I have a dog
+- I have had multiple cars.
 
-## Buzz Aldrin
+## Yosan Legaspi
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- Blue is my fav colour
+- I looove sashimi
+- I have a cute cat called Puddles
