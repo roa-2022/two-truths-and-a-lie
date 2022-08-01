@@ -30,7 +30,7 @@ Let's get to know each other better! We'll play an icebreaker called Two Truths 
     * If you're working solo on your own machine, you will have configured git globally already, and you don't need `git-iam`
 
     ```shell
-    git iam DRIVERS_FIRST_NAME
+    git iam DRIVERS_GITHUB_NAME
     ```
  </details>
 
