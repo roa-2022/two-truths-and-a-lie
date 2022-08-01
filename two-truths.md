@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Jeff McNie 
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I can play the drums
+- I used to be a boy scout leader
+- I used to drive luxury cars for a living
 
-## Buzz Aldrin
+## Ash Rockett
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- My favourite food is Japanese Tapioca Balls
+- I used to own a pet pidgeon
+- I am scared of heights
