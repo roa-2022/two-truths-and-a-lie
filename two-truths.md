@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Matthew Egan
 
 - I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I love cats.
+- I am afraid of macro economic trends.
 
-## Buzz Aldrin
+## Jordan Harlen
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I can ride a motorcycle.
+- I basketball.
+- I am afraid tennis balls.
