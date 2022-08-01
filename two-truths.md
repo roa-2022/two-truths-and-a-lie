@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Amy
 
 - I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I love hiking.
+- I am afraid of swiming. LIE
 
-## Buzz Aldrin
+## Chloe
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I can swimming.
+- I love cooking.
+- I am afraid of cat. LIE
