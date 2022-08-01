@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Eamonn O'Sullivan
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I can speak French.
+- I have lived in Australia.
+- I have two fake teeth.
 
-## Buzz Aldrin
+## Pei Zhang
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I am afraid of spiders.
+- I have a dog.
+- I can handle spicy pretty well.
