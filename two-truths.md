@@ -2,10 +2,10 @@
 
 - I can play the drums
 - I used to be a boy scout leader
-- I used to drive luxury cars for a living
+- I used to drive luxury cars for a living -LIE
 
 ## Ash Rockett
 
 - My favourite food is Japanese Tapioca Balls
 - I used to own a pet pidgeon
-- I am scared of heights
+- I am scared of heights -LIE
