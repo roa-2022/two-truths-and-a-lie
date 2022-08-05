@@ -1,8 +1,8 @@
-## Neil Armstrong
+## Yanina Amatore
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I am a good cook.
+- I love watching movies.
+- I am afraid of darkness.
 
 ## Buzz Aldrin
 
