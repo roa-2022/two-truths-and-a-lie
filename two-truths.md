@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Ming Shang Ng
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I from Malaysia. LIE
+- I love running.
+- I speak two languages.
 
-## Buzz Aldrin
+## Tyrone Elia  
 
-- I can hula hoop.
+- I can play piano badly.
 - I love climbing trees.
-- I am afraid of dentists.
+- I am afraid of spiders. LIE
