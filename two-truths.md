@@ -1,11 +1,12 @@
-## Neil Armstrong
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+## Tony Amerman
 
-## Buzz Aldrin
+- I make tacos.
+- I've traveled all over South America.
+- I have gone sky-diving.
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+## River Dalli-Niven
+
+- I watched game of thrones.
+- I love mayonaisse.
+- I have a red car.
