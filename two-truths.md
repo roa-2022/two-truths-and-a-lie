@@ -1,6 +1,6 @@
+
 ## Yosan Legaspi
 
-- My fav colour is blue
-- I love sashimi
-- I amhave a cat called Puddles
-
+- Blue is my fav colour LIE
+- I looove sashimi
+- I have a cute cat called Puddles
