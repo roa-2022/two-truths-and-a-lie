@@ -1,11 +1,5 @@
-## Neil Armstrong
+## Brendan Jarvis
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
-
-## Buzz Aldrin
-
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I run 21 km every week.
+- I love riding my motorcycle.
+- I am an amazing baker.
