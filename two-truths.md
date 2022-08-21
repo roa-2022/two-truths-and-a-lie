@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Thien Hatton
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I can play basketball.
+- I love cat.
+- I am afraid of bugs.
 
-## Buzz Aldrin
+## Kris Bacaling
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- For a school trip i went to Japan.
+- after uni i went to Rome with my aunt.
+- i have family in Sydney.
