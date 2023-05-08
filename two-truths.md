@@ -4,8 +4,8 @@
 - I once ate fast food for 3 months straight
 - I've been to over 50 weddings
 
-## Buzz Aldrin
+## Maia Tarapipipi
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I am very gullable
+- I once ate a cockroach on a dare
+- I have 8 siblings
