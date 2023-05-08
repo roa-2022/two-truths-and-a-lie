@@ -1,8 +1,8 @@
-## Neil Armstrong
+## Daniel Grabczewski
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I used to play the viola
+- I once ate fast food for 3 months straight
+- I've been to over 50 weddings
 
 ## Buzz Aldrin
 
